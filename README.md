@@ -1,4 +1,4 @@
-# The Sweets Corner 🍬
+# The Sweets Corner 🍰
 
 A responsive website concept for an Indian sweets shop, featuring a warm espresso-and-gold visual theme, signature sweet cards, a brand story, and a contact section.
 
